@@ -7,7 +7,7 @@ contract errorHandling
 {
 
     // address variable that stores the address of the owner
-    address owner = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
+    address owner = 0x56C1c21AAD780253f0648Deee1C7113eE2cA4215;
 
     function testAssert(address _z) public view returns (address)
     {
